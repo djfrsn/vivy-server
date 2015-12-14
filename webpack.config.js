@@ -79,11 +79,11 @@ module.exports = {
     root: [
       './node_modules'
     ],
-    extensions: ['', '.js']
+    extensions: ['', '.js'],
     // use to point to folders for imports node style
-    // modulesDirectories: [
-    //   './public'
-    // ]
+    modulesDirectories: [
+      './public'
+    ]
     // set an alias for dependencies in node_modules or other dirs
     // alias: {
     // }
