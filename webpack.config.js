@@ -79,7 +79,7 @@ module.exports = {
     root: [
       './node_modules'
     ],
-    extensions: ['', '.js'],
+    extensions: ['', '.js']
     // use to point to folders for imports node style
     // modulesDirectories: [
     //   './public'
