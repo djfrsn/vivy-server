@@ -29,6 +29,7 @@
     "eslint-plugin-react": "^3.6.2",
     "express": "^4.13.3",
     "extract-text-webpack-plugin": "^0.8.2",
+    "fbjs": "^0.5.1",
     "file-loader": "^0.8.4",
     "html-webpack-plugin": "^1.6.1",
     "img-loader": "^1.2.0",
