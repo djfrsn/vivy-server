@@ -1,7 +1,7 @@
 {
   "name": "Vivy",
   "appName": "Vivy",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "main": "./server.js",
   "description": "Barebones Express Web Server ~ Webpack",
   "repository": {
