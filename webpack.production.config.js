@@ -45,7 +45,7 @@ module.exports = {
   module: {
     loaders: [
       { test: /\.js?$/, exclude: /node_modules/, loader: 'babel-loader' },
-      { test: /\.css$/, loader: 'style-loader!css-loader!postcss-loader' },
+      { test: /\.css$/, loader: 'style-loader!css-loader' },
       { test: /\.(jpe?g|png|gif|svg)$/i, loader: 'url?limit=10000!img?progressive=true' },
       { test:  /\.json?$/, loader: 'url?limit=10000!img?progressive=true' }
     ]

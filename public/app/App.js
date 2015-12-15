@@ -4,7 +4,7 @@ import './Styles.css';
 export default class App extends Component {
   render() {
     return (
-      <h1>Vivy.</h1>
+      <div>Vivy.</div>
     );
   }
 }
