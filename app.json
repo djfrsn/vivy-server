@@ -1,0 +1,10 @@
+{
+  "name": "Vivy",
+  "description": "JS server based on react-webpack-node",
+  "repository": "https://github.com/djfrsn/vivy-server",
+  "logo": "https://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static", "react", "webpack", "mongodb"],
+  "addons" : [
+  	"mongohq"
+  ]
+}
